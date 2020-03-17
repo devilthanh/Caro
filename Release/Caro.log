@@ -1,0 +1,12 @@
+﻿  caro.cpp
+C:\Users\hatha\source\repos\Caro\caro.cpp(78,28): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\hatha\source\repos\Caro\caro.cpp(124,28): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\hatha\source\repos\Caro\caro.cpp(179,28): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\hatha\source\repos\Caro\caro.cpp(307,22): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\hatha\source\repos\Caro\caro.cpp(753,28): warning C4018:  '>': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 249 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Caro.vcxproj -> C:\Users\hatha\source\repos\Caro\Release\Caro.exe
